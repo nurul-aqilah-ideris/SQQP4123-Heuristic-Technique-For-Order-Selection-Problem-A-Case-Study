@@ -43,5 +43,6 @@ ii.	The heuristic techniques work best to find initial solutions.
 ## Research Methodology
 
 ### a) Research Design
+![Research Framework](https://user-images.githubusercontent.com/116338630/203378386-78162633-0232-4fc6-918f-51867356181f.jpg)
 
 
