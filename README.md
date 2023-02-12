@@ -44,9 +44,27 @@ i.	To help the bakers to improve the production planning.
 ii.	The heuristic techniques work best to find initial solutions.
     - It will help the bakers to have a scientific approach to solve the order selection problem with the objective is to maximize the total sales.  
 
-## Research Methodology
+## Literature Review
+![LR](https://user-images.githubusercontent.com/116338630/218298951-da050684-07ef-4731-bb42-a9fe4ef394f4.jpg)
 
-### a) Research Design
-![Research Framework](https://user-images.githubusercontent.com/116338630/203378386-78162633-0232-4fc6-918f-51867356181f.jpg)
+## Research Methodology
+The descriptions include the research framework and research process.
+
+### Research Framework
+There are six phases conducted to achieve the research objectives.
+![Research Framework new](https://user-images.githubusercontent.com/116338630/218299282-c8281123-3423-4916-ab0d-60c31a7efbf2.jpg)
+
+### Data Collection
+•	A case at one bakery in Kelantan consists of 2 bakers to fulfill customers' orders.
+
+•	25 orders (cakes and cookies)
+
+•	Sales of each order
+
+•	The preparation time of each order
+
+### Integer Programming (IP) Model
+
+
 
 
