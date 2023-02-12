@@ -16,6 +16,8 @@ ii.	How to select orders that can maximize the total sales?
 
 iii.	How to evaluate the quality of the proposed solutions in this study?
 
+iv. What is the suitable sensitivity analysis that suitable for this study?
+
 ## Research Objectives
 
 The main objective of this research is to develop a greedy heuristic for solving the order selection knapsack problem.
@@ -24,9 +26,11 @@ This study has the following sub-objectives:
 
 i.	To identify parameters and constraints involved in the order selection problem.
 
-ii.	To select orders that can maximize the total sales by using heuristic techniques
+ii.	To select orders that can maximize the total sales by using using Integer Programming (IP) Model and heuristic techniques.
 
 iii.  To evaluate the quality of the proposed solutions with a solution by the baker in terms of the total sales.
+
+iv.	To develop sensitivity analysis model related to order selection problem.
 
 ## Scope of the Research
 
